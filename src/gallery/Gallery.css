@@ -1,0 +1,10 @@
+.gallerie-wrapper .gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.gallerie-wrapper .search {
+    margin-bottom: 15px;
+}
